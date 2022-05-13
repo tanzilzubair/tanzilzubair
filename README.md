@@ -1,6 +1,6 @@
-👋 Hi, I’m @tanzilzubair
-👀 I’m interested in coding, nearly every aspect of it. From ML to desktop apps to databases and algorithms
-🌱 I’m currently learning Dart and Flutter
+- 👋 Hi, I’m @tanzilzubair
+- 👀 I’m interested in coding, nearly every aspect of it. From ML to desktop apps to databases and algorithms
+- 🌱 I’m currently learning Dart and Flutter
 <!-- # Hello!👋
 My name is Tanzil Zubair Bin Zaman, and I'm an amaetuer software developer and all-around tech-obsessed person. Coding - and minor hardware dabblings here and there - have been my passion for as long as I can remember, and I am deeply fasicnated by every aspect of them: From ML to systems software, from IBM's quantum computers to Raspberry Pis.
 
