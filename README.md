@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @tanzilzubair
-- 👀 I’m interested in coding, nearly every aspect of it. From ML to desktop apps to databases and algorithms
-- 🌱 I’m currently learning Dart and Flutter
-<!-- # Hello!👋
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=tanzilzubair.visitor-badge&left_text=Visitors)
+# Hello! <img src="https://github.com/tanzilzubair/tanzilzubair/blob/main/assets/waving_hand.gif" width="40px">
 My name is Tanzil Zubair Bin Zaman, and I'm an amaetuer software developer and all-around tech-obsessed individual. Coding - and minor hardware dabblings here and there - have been my passion for as long as I can remember, and I am deeply fasicnated by every aspect of them; from ML to systems software, from IBM's quantum computers to Raspberry Pis.
 
 Currently, I've been devoted to making some passion projects of mine get off the ground and up and running! 
@@ -11,5 +9,8 @@ Apart from coding, I've been an avid fan of the written word for just about as l
 
 My favourtie books of course include the timeless and genre-defining works of Isaac Asimov and Frank Herbert, to the I am _convinced_ classic-to-be works of Brandon Sanderson. These books have entertained and given me companionship, most definitely, but perhaps most importantly, I love them because they've shown me the value of not just seeing what _is_, but what _could be_.
 
-I maintain and write sporadically for a blog over at [tanzilzubair.tech](tanzilzubair.tech). -->
+I maintain a blog and write sporadically over at [tanzilzubair.tech](tanzilzubair.tech).
+
+#  🎶
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317nily3onyloackhxr4ucvv2nuq&cover_image=true&theme=novatorem&bar_color=00f900&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=317nily3onyloackhxr4ucvv2nuq&redirect=true)
 
