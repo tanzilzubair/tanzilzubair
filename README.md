@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=tanzilzubair.visitor-badge&left_text=Visitors)
+![visitors](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=tanzilzubair&repo=tanzilzubair&countColorcountColor&countColor=%237B1E7B)
 # Hello! <img src="https://github.com/tanzilzubair/tanzilzubair/blob/main/assets/waving_hand.gif" width="40px">
 My name is Tanzil Zubair Bin Zaman, and I'm an amaetuer software developer and all-around tech-obsessed individual. Coding - and minor hardware dabblings here and there - have been my passion for as long as I can remember, and I am deeply fasicnated by every aspect of them; from ML to systems software, from IBM's quantum computers to Raspberry Pis.
 
@@ -14,3 +14,6 @@ I maintain a blog and write sporadically over at [tanzilzubair.tech](tanzilzubai
 #  🎶
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317nily3onyloackhxr4ucvv2nuq&cover_image=true&theme=novatorem&bar_color=00f900&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=317nily3onyloackhxr4ucvv2nuq&redirect=true)
 
+<!-- <p align="center">
+  <a href= "https://spotify-github-profile.vercel.app/api/view?uid=317nily3onyloackhxr4ucvv2nuq&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=317nily3onyloackhxr4ucvv2nuq&cover_image=true&theme=novatorem&bar_color=00f900&bar_color_cover=false" /><a/>
+</p> -->
