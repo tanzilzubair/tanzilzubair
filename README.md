@@ -11,7 +11,7 @@ My favourtie books of course include the timeless and genre-defining works of Is
 
 I maintain a blog and write sporadically over at [tanzilzubair.tech](tanzilzubair.tech).
 
-#  🎶
+# 🎶 What I'm Vibing To Currently
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317nily3onyloackhxr4ucvv2nuq&cover_image=true&theme=novatorem&bar_color=00f900&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=317nily3onyloackhxr4ucvv2nuq&redirect=true)
 
 <!-- <p align="center">
