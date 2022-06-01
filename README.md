@@ -1,5 +1,5 @@
 ![visitors](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=tanzilzubair&repo=tanzilzubair&countColorcountColor&countColor=%237B1E7B)
-# Hello! <img src="https://github.com/tanzilzubair/tanzilzubair/blob/main/assets/waving_hand.gif" width="40px">
+# Hello! <img src="https://github.com/tanzilzubair/tanzilzubair/blob/main/assets/waving_hand.gif" width="20px">
 My name is Tanzil Zubair Bin Zaman, and I'm an amature software developer and all-around tech-obsessed individual. Coding - and minor hardware dabblings here and there - have been my passion for as long as I can remember, and I am deeply fasicnated by every aspect of them; from ML to systems software, from IBM's quantum computers to Raspberry Pis.
 
 Currently, I've been devoted to making some passion projects of mine get off the ground and up and running! 
