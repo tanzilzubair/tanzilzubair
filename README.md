@@ -1,3 +1,4 @@
+![Profile views](https://gpvc.arturio.dev/tanzilzubair)
 # Hello! 
 <!-- <img src="https://github.com/tanzilzubair/tanzilzubair/blob/main/assets/waving_hand.gif" width="20px"> -->
 My name is Tanzil Zubair Bin Zaman, and I'm an amature software developer and all-around tech-obsessed individual. Coding - and minor hardware dabblings here and there - have been my passion for as long as I can remember, and I am deeply fasicnated by every aspect of them; from ML to systems software, from IBM's quantum computers to Raspberry Pis.
