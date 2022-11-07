@@ -1,13 +1,13 @@
 <!-- <img src="https://gpvc.arturio.dev/tanzilzubair" alt="Profile views"> -->
 [![Header](https://raw.githubusercontent.com/tanzilzubair/tanzilzubair/main/assets/Header.png)](https://tanzilzubair.tech/)
 <p align="center">
-  <a href="https://tanzilzubair.tech/projects/" target="\_blank">
+  <a href="https://tanzilzubair.tech/projects/" target="_blank">
     <img src="https://img.shields.io/badge/-PROJECTS-green?&style=for-the-badge&color=0fbfb2&labelColor=0fbfb2" alt="Projects"/>
   </a>
- <a href="https://tanzilzubair.tech/blog/" target="\_blank">
+ <a href="https://tanzilzubair.tech/blog/" target="_blank">
     <img src="https://img.shields.io/badge/-BLOG-green?&style=for-the-badge&color=ca2592&labelColor=ca2592" alt="Blog"/>
   </a>
-  <a href="https://www.instagram.com/tanzil.zubair/" target="\_blank">
+  <a href="https://www.instagram.com/tanzil.zubair/" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=15222b" alt="Instagram"/>
   </a>
 </p>
