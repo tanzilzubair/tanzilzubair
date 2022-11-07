@@ -1,3 +1,4 @@
+[![Header](https://raw.githubusercontent.com/tanzilzubair/tanzilzubair/main/assets/Header.png)](https://tanzilzubair.tech/)
 ![Profile views](https://gpvc.arturio.dev/tanzilzubair)
 # Hello! 
 <!-- <img src="https://github.com/tanzilzubair/tanzilzubair/blob/main/assets/waving_hand.gif" width="20px"> -->
@@ -14,8 +15,3 @@ I maintain a blog and write sporadically over at [tanzilzubair.tech](tanzilzubai
 
 # 🎶 What I'm Vibing To Currently
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317nily3onyloackhxr4ucvv2nuq&cover_image=true&theme=novatorem&bar_color=00f900&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=317nily3onyloackhxr4ucvv2nuq&redirect=true)
-
-<!-- <p align="center">
-  <a href= "https://spotify-github-profile.vercel.app/api/view?uid=317nily3onyloackhxr4ucvv2nuq&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=317nily3onyloackhxr4ucvv2nuq&cover_image=true&theme=novatorem&bar_color=00f900&bar_color_cover=false" /><a/>
-</p> -->
-
