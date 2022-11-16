@@ -18,7 +18,8 @@
   <img align="left" alt=“Github” src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="140px" height="140px">
 </p>
 
-My name is Tanzil Zubair Bin Zaman, and I'm an amature software developer and all-around tech-obsessed individual. Coding - and minor hardware dabblings here and there - have been my passion for as long as I can remember, and I am deeply fasicnated by every aspect of them; from ML to systems software, from IBM's quantum computers to Raspberry Pis.
+My name is Tanzil Zubair Bin Zaman, and I'm an amature software developer. I've been obssessed with technology for as long as I can remember, and per my mom's accounts, since *before* I could remember as well. In my free time, I build things, be it mechs with physical Lego, or software, with the digital Lego that is coding. Clicking together those plastic pieces endlessly fascinated me as a child, and coding does the same now, with each new line I write. 
+From IBM's quantum computers to Raspberry Pis, and from abstract ML models to systems software, I love it all!
 
 Currently, I've been devoted to making some passion projects of mine get off the ground and up and running! 
 
@@ -31,12 +32,15 @@ Currently, I've been devoted to making some passion projects of mine get off the
  
 # 🎶 What I'm Vibing To Currently
 
-I love music, from all genres. It's like a friend for me, cheering me on when I'm deep into a coding session, and being a comforting pillow when I'm down.
+As you can probably tell, I code a lot. I've been doing it for a long time too — over 10 years since I wrote that first line — and whether it be finishing up a big project late at night, deep into the thick of it, or starting a fresh new project on a lazy afternoon, music has been my companion through it all. 
+
+Also, Spotify as a technology deeply fascinates me, having sparked my love and learning of AI and ML, and how it makes the simple act of listening to magic so seamlessly magical is a design philosophy I try to channel into the software *I* build as well.
 
  ---
 # ✍️ Blog & Writing
-Apart from coding, I've been an avid fan of the written word for just about as long as I've been able to comprehend it, and over the years, I've won a few  writing competitions as well!
+Apart from coding, I've been an avid fan of the written word for just about as long as I've been able to comprehend it, and over the years, I've won a few writing competitions as well!
 
-My favourtie books of course include the timeless and genre-defining works of Isaac Asimov and Frank Herbert, to the I am _convinced_ classic-to-be works of Brandon Sanderson. These books have entertained and given me companionship, most definitely, but perhaps most importantly, I love them because they've shown me the value of not just seeing what _is_, but what _could be_.
+Now a love of writing naturally means a love of reading as well, and my favorite books include the timeless and genre-defining works of Isaac Asimov and Frank Herbert, to the I am _convinced_ classic-to-be works of Brandon Sanderson. 
+*Dune* and *Mistborn* are books that have kept me awake many-a-night transcending simple stories, these books create entire *worlds* to fall in love with, and that's exactly why I love them so much. The've entertained, they've given companionship, and most importantly, they've shown me the value of not just seeing what _is_, but what _could be_.
 
-I maintain a blog and write sporadically over at [tanzilzubair.tech](tanzilzubair.tech).
+I maintain a blog and write sporadically over at [tanzilzubair.tech](tanzilzubair.tech). 
