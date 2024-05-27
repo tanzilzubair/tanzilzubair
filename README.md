@@ -15,8 +15,7 @@
   <img align="left" alt=“Github” src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="140px" height="140px">
 </p>
 
-My name is Tanzil Zubair Bin Zaman, and I'm a sophomore at Michigan State University with a passion for technology and software - particularly centered on how they can be used to build experiences that inspire and uplift. I've been obssessed with technology for as long as I can remember, from being fascinated by how they work, to being in awe of how much they impact our lives and magnify our potential. 
-In my free time, I try to build things that embody these ideals, from websites and mobile apps to open-source libraries and Raspberry Pi creations.
+My name is Tanzil Zubair Bin Zaman, and I'm a sophomore at Michigan State University with a passion for technology and software - particularly centered on how they can be used to build experiences that inspire and uplift. I've been obssessed with technology for as long as I can remember, from being fascinated by how they work, to being in awe of how much they impact our lives and magnify our potential. <br> In my free time, I try to build things that embody these ideals, from websites and mobile apps to open-source libraries and Raspberry Pi creations.
 
 
 ---
