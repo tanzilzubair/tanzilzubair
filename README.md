@@ -7,9 +7,6 @@
  <a href="https://tanzilzubair.tech/blog/" target="_blank">
     <img src="https://img.shields.io/badge/-BLOG-green?&style=for-the-badge&color=ca2592&labelColor=ca2592" alt="Blog"/>
   </a>
-  <a href="https://www.instagram.com/tanzil.zubair/" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=15222b" alt="Instagram"/>
-  </a>
 </p>
 
 <h1 align="center"><img src="https://github.com/tanzilzubair/tanzilzubair/blob/54147c4f730322e33c2810efd046c0249c606894/assets/waving_hand.gif" width="30px" height="30px" /> Hello! And Welcome! <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="30px" /></h1>
@@ -18,19 +15,16 @@
   <img align="left" alt=“Github” src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="140px" height="140px">
 </p>
 
-My name is Tanzil Zubair Bin Zaman, and I'm an amature software developer. I've been obssessed with technology for as long as I can remember, and per my mom's accounts, since *before* I could remember as well. In my free time, I build things, be it mechs with physical Lego, or software, with the digital Lego that is coding. Clicking together those plastic pieces endlessly fascinated me as a child, and coding does the same now, with each new line I write. 
-From IBM's quantum computers to Raspberry Pis, and from abstract ML models to systems software, I love it all!
-
-Currently, I've been devoted to making some passion projects of mine get off the ground and up and running! 
-
+My name is Tanzil Zubair Bin Zaman, and I'm a sophomore at Michigan State University with a passion for technology and software - particularly centered on how they can be used to build experiences that inspire and uplift. I've been obssessed with technology for as long as I can remember, from being fascinated by how they work, to being in awe of how much they impact our lives and magnify our potential. 
+In my free time, I try to build things that embody these ideals, from websites and mobile apps to open-source libraries and Raspberry Pi creations.
 
 
 ---
-<p>
-  <img align="right" alt="Profile Hits" src="https://tanzilzubair.tech/4AAQSkZJRgABAQEASABIAAD.svg">
-</p>
- 
+
 # 🎶 What I'm Vibing To Currently
+<p>
+  <img align="right" alt="My music taste" src="https://tanzilzubair.tech/4AAQSkZJRgABAQEASABIAAD.svg">
+</p>
 
 As you can probably tell, I code a lot. I've been doing it for a long time too — over 10 years since I wrote that first line — and whether it be finishing up a big project late at night, deep into the thick of it, or starting a fresh new project on a lazy afternoon, music has been my companion through it all. 
 
