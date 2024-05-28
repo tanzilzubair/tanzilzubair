@@ -4,10 +4,12 @@
   <a href="https://tanzilzubair.tech/projects/" target="_blank">
     <img src="https://img.shields.io/badge/-PROJECTS-green?&style=for-the-badge&color=0fbfb2&labelColor=0fbfb2" alt="Projects"/>
   </a>
- <a href="https://tanzilzubair.tech/blog/" target="_blank">
-    <img src="https://img.shields.io/badge/-BLOG-green?&style=for-the-badge&color=ca2592&labelColor=ca2592" alt="Blog"/>
+ <a href="www.linkedin.com/in/tanzilzubair" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
+
+
 
 <h1 align="center"><img src="https://github.com/tanzilzubair/tanzilzubair/blob/54147c4f730322e33c2810efd046c0249c606894/assets/waving_hand.gif" width="30px" height="30px" /> Hello! And Welcome! <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="30px" /></h1>
 
