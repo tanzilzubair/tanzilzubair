@@ -28,9 +28,8 @@ Also, Spotify as a technology deeply fascinates me, having sparked my love and l
 
  ---
 # ✍️ Blog & Writing
-Apart from coding, I've been an avid fan of the written word for just about as long as I've been able to comprehend it, and over the years, I've won a few writing competitions as well!
+Apart from coding, I've been an avid fan of the written word for just about as long as I've been able to comprehend it; I talk about my experiences bulidng my projects, and maintain a blog over at [tanzilzubair.tech](tanzilzubair.tech). 
 
-Now a love of writing naturally means a love of reading as well, and my favorite books include the timeless and genre-defining works of Isaac Asimov and Frank Herbert, to the I am _convinced_ classic-to-be works of Brandon Sanderson. 
-*Dune* and *Mistborn* are books that have kept me awake many-a-night transcending simple stories, these books create entire *worlds* to fall in love with, and that's exactly why I love them so much. The've entertained, they've given companionship, and most importantly, they've shown me the value of not just seeing what _is_, but what _could be_.
-
-I maintain a blog and write sporadically over at [tanzilzubair.tech](tanzilzubair.tech). 
+---
+# 📩 Contact
+You can reach me at [zamantan@msu.edu](mailto:zamantan@msu.edu), or over on [LinkedIn](https://www.linkedin.com/in/tanzilzubair/). I am a highly motivated learner, committed to developing my skills further, and am eager to explore opportunities that will allow me to contribute to innovative projects and teams.
