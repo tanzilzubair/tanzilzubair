@@ -5,10 +5,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></img>
   </a>
     <a href="https://tanzilzubair.tech/projects/" target="_blank">
-    <img src="https://img.shields.io/badge/-PROJECTS-green?&style=for-the-badge&color=0fbfb2&labelColor=0fbfb2" alt="Projects"/></img>
+    <img src="https://img.shields.io/badge/PROJECTS-green?&style=for-the-badge&color=0fbfb2&labelColor=0fbfb2" alt="Projects"/></img>
   </a>
   <a href="https://tanzilzubair.tech/blog/" target="_blank">
-    <img src="https://img.shields.io/badge/-BLOG-green?&style=for-the-badge&color=ca2592&labelColor=ca2592" alt="Blog"/></img>
+    <img src="https://img.shields.io/badge/BLOG-green?&style=for-the-badge&color=ca2592&labelColor=ca2592" alt="Blog"/></img>
     </a>
 </p>
 
