@@ -1,18 +1,16 @@
-<!-- <img src="https://gpvc.arturio.dev/tanzilzubair" alt="Profile views"> -->
 [![Header](https://raw.githubusercontent.com/tanzilzubair/tanzilzubair/main/assets/Header.png)](https://tanzilzubair.tech/)
+
 <p align="center">
- <a href="www.linkedin.com/in/tanzilzubair" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-    <a href="https://tanzilzubair.tech/projects/" target="_blank">
-    <img src="https://img.shields.io/badge/-PROJECTS-green?&style=for-the-badge&color=0fbfb2&labelColor=0fbfb2" alt="Projects"/>
-  </a>
-  <a href="https://tanzilzubair.tech/blog/" target="_blank">
-    <img src="https://img.shields.io/badge/-BLOG-green?&style=for-the-badge&color=ca2592&labelColor=ca2592" alt="Blog"/>
+    <a target="_blank" href="www.linkedin.com/in/tanzilzubair">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a target="_blank" href="https://tanzilzubair.tech/projects/">
+        <img src="https://img.shields.io/badge/-PROJECTS-green?&style=for-the-badge&color=0fbfb2&labelColor=0fbfb2"/>
+    </a>
+    <a target="_blank" href="https://tanzilzubair.tech/blog/">
+        <img src="https://img.shields.io/badge/-BLOG-green?&style=for-the-badge&color=ca2592&labelColor=ca2592"/>
     </a>
 </p>
-
-
 
 <h1 align="center"><img src="https://github.com/tanzilzubair/tanzilzubair/blob/54147c4f730322e33c2810efd046c0249c606894/assets/waving_hand.gif" width="30px" height="30px" /> Hello! And Welcome! <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="30px" /></h1>
 
