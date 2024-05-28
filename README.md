@@ -4,12 +4,6 @@
  <a href="www.linkedin.com/in/tanzilzubair" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></img>
   </a>
-    <a href="https://tanzilzubair.tech/projects/" target="_blank">
-    <img src="https://img.shields.io/badge/PROJECTS-green?&style=for-the-badge&color=0fbfb2&labelColor=0fbfb2" alt="Projects"/></img>
-  </a>
-  <a href="https://tanzilzubair.tech/blog/" target="_blank">
-    <img src="https://img.shields.io/badge/BLOG-green?&style=for-the-badge&color=ca2592&labelColor=ca2592" alt="Blog"/></img>
-    </a>
   <a target="_blank" href="https://medium.com/@thomas-george-thomas"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
     <a target="_blank" href="https://twitter.com/Thomas_George_T"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 
