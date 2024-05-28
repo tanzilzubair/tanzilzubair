@@ -10,6 +10,9 @@
   <a href="https://tanzilzubair.tech/blog/" target="_blank">
     <img src="https://img.shields.io/badge/BLOG-green?&style=for-the-badge&color=ca2592&labelColor=ca2592" alt="Blog"/></img>
     </a>
+  <a target="_blank" href="https://medium.com/@thomas-george-thomas"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
+    <a target="_blank" href="https://twitter.com/Thomas_George_T"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+
 </p>
 
 <h1 align="center"><img src="https://github.com/tanzilzubair/tanzilzubair/blob/54147c4f730322e33c2810efd046c0249c606894/assets/waving_hand.gif" width="30px" height="30px" /> Hello! And Welcome! <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="30px" /></h1>
