@@ -10,7 +10,7 @@
 
 I'm a senior at Michigan State University graduating May 2027 with a BS in Computer Science, a BA in Economics, and a minor in Computational Mathematics. I build full-stack applications, ship mobile apps to production, and publish open-source libraries. 
 
-Currently exploring the intersection of software engineering and finance, and looking for full-time SWE and fintech roles starting summer 2027.
+Currently exploring the intersection of software engineering and finance, and looking for full-time SWE, fintech, and data engineering roles starting summer 2027.
 
 ---
 
