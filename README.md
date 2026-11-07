@@ -1,35 +1,56 @@
 [![Header](https://raw.githubusercontent.com/tanzilzubair/tanzilzubair/main/assets/Header.png)](https://tanzilzubair.tech/)
 
 <p align="center">
-    <a target="_blank" href="www.linkedin.com/in/tanzilzubair"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></img></a>
+    <a target="_blank" href="https://www.linkedin.com/in/tanzilzubair"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></img></a>
     <a target="_blank" href="https://tanzilzubair.tech/projects/"><img src="https://img.shields.io/badge/-PROJECTS-green?&style=for-the-badge&color=0fbfb2&labelColor=0fbfb2" alt="Projects"></img></a>
-    <a target="_blank" href="https://tanzilzubair.tech/blog/"><img src="https://img.shields.io/badge/BLOG-green?&style=for-the-badge&color=ca2592&labelColor=ca2592" alt="Blog"></img></a>
+    <!-- <a target="_blank" href="https://tanzilzubair.tech/blog/"><img src="https://img.shields.io/badge/BLOG-green?&style=for-the-badge&color=ca2592&labelColor=ca2592" alt="Blog"></img></a> -->
 </p>
 
-<h1 align="center"><img src="https://github.com/tanzilzubair/tanzilzubair/blob/54147c4f730322e33c2810efd046c0249c606894/assets/waving_hand.gif" width="30px" height="30px" /> Hello! And Welcome! <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="30px" /></h1>
+## Hey, I'm Tanzil 👋
 
-<p>
-  <img align="left" alt=“Github” src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="140px" height="140px">
-</p>
+I'm a senior at Michigan State University graduating May 2027 with a BS in Computer Science, a BA in Economics, and a minor in Computational Mathematics. I build full-stack applications, ship mobile apps to production, and publish open-source libraries. 
 
-My name is Tanzil Zubair Bin Zaman, and I'm a sophomore at Michigan State University with a passion for technology and software - particularly centered on how they can be used to build experiences that inspire and uplift.<br><br> I've been obssessed with technology for as long as I can remember, from being fascinated by how they work, to being in awe of how much they impact our lives and magnify our potential. In my free time, I try to build things that embody these ideals, from websites and mobile apps to open-source libraries and Raspberry Pi creations.
-
+Currently exploring the intersection of software engineering and finance, and looking for full-time SWE and fintech roles starting summer 2027.
 
 ---
 
-# 🎶 What I'm Vibing To Currently
-<p>
-  <img align="right" alt="My music taste" src="https://tanzilzubair.tech/4AAQSkZJRgABAQEASABIAAD.svg">
-</p>
+## 🛠️ Tech Stack
 
-As you can probably tell, I code a lot. I've been doing it for a long time too — over 10 years since I wrote that first line — and whether it be finishing up a big project late at night, deep into the thick of it, or starting a fresh new project on a lazy afternoon, music has been my companion through it all. 
+**Languages**
 
-Also, Spotify as a technology deeply fascinates me, having sparked my love and learning of AI and ML, and how it makes the simple act of listening to magic so seamlessly magical is a design philosophy I try to channel into the software *I* build as well.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
- ---
-# ✍️ Blog & Writing
-Apart from coding, I've been an avid fan of the written word for just about as long as I've been able to comprehend it; I talk about my experiences bulidng my projects, and maintain a blog over at [tanzilzubair.tech](tanzilzubair.tech). 
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+**Data & Infrastructure**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 ---
-# 📩 Contact
-You can reach me at [zamantan@msu.edu](mailto:zamantan@msu.edu), or over on [LinkedIn](https://www.linkedin.com/in/tanzilzubair/). I am a highly motivated learner, committed to developing my skills further, and am eager to explore opportunities that will allow me to contribute to innovative projects and teams.
+
+## 📩 Contact
+
+Reach me at [zamantan@msu.edu](mailto:zamantan@msu.edu) or connect on [LinkedIn](https://www.linkedin.com/in/tanzilzubair/).
